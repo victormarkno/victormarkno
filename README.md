@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hola, soy Victor Marcano 👋
 
-<!--
-**victormarkno/victormarkno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador frontend con experiencia en JavaScript, HTML y CSS. Me gusta construir aplicaciones web interactivas y aprender nuevas tecnologías de forma práctica.
 
-Here are some ideas to get you started:
+**Stack principal:** JavaScript · HTML · CSS · Python  
+**Actualmente:** Mejorando mis proyectos y explorando frameworks modernos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos destacados
+
+- **[app-clima-javascript](https://github.com/victormarkno/app-clima-javascript)** — Aplicación de clima en JavaScript puro  
+  [Live Demo](https://app-clima-javascript-v.netlify.app/)
+
+- **[app-social-network](https://github.com/victormarkno/app-social-network)** — Red social simple construida con JavaScript  
+  [Live Demo](https://app-social-network-javascript.netlify.app/)
+
+- **[login-validado-javascript](https://github.com/victormarkno/login-validado-javascript)** — Sistema de login con validaciones de DOM  
+  [Live Demo](https://login-test-javascript.netlify.app)
+
+- **[platzom](https://github.com/victormarkno/platzom)** — Módulo npm de un idioma inventado (ejercicio de fundamentos de JavaScript)
+
+### 📫 Contacto
+
+- GitHub: [victormarkno](https://github.com/victormarkno)
+- Twitter/X: [@victormarkno](https://twitter.com/victormarkno)
+
+---
+
+⭐ Si te gustan mis proyectos, ¡dale una estrella!
